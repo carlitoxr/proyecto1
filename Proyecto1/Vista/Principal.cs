@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Proyecto1.Vista
 {
-    public partial class Principi : Form
+    public partial class Principal : Form
     {
-        public Principi()
+        public Principal()
         {
             InitializeComponent();
         }

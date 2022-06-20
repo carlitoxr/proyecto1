@@ -1,6 +1,6 @@
 ﻿namespace Proyecto1.Vista
 {
-    partial class Principi
+    partial class Principal
     {
         /// <summary>
         /// Required designer variable.

@@ -54,11 +54,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Vista\Principi.cs">
+    <Compile Include="Vista\Principal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Vista\Principi.Designer.cs">
-      <DependentUpon>Principi.cs</DependentUpon>
+    <Compile Include="Vista\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Vista\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -72,8 +72,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Vista\Principi.resx">
-      <DependentUpon>Principi.cs</DependentUpon>
+    <EmbeddedResource Include="Vista\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
