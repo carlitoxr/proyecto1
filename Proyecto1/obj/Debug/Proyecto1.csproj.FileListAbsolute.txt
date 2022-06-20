@@ -8,13 +8,3 @@ C:\Users\Administrador\Desktop\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.Ge
 C:\Users\Administrador\Desktop\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Desktop\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
 C:\Users\Administrador\Desktop\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.csprojAssemblyReference.cache
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.Login.resources
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
-d:\Users\alumno\Desktop\proy\proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
